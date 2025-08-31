@@ -1,6 +1,7 @@
 # 🛍️ Ansh Ecommerce Sales Dashboard
 
-![Ansh Ecommerce Sales Dashboard](C:\Users\HP\OneDrive\Documents\Ansh Ecommerce Sales Dashboard\ansh eccomerce sales dashboard.png)
+![Ansh Ecommerce Sales Dashboard](<img width="1536" height="1024" alt="ansh eccomerce sales dashboard" src="https://github.com/user-attachments/assets/c6ed448a-ad9f-4c3b-ad7f-fc8a4769d7a3" />
+)
 
 ## 📌 Project Overview  
 The **Ansh Ecommerce Sales Dashboard** provides a detailed analysis of ecommerce sales performance using Python, Power BI, and data visualization techniques.  
